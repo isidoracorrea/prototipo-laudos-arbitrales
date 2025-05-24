@@ -1,0 +1,7 @@
+letra_causal,descripcion,frecuencia,acogida,rechazada,argumentos_recurrente,fundamentos_tribunal
+a,Infracción al debido proceso,65 menciones,6,51,"['Falta de motivación', 'Audiencia no convocada', 'Violación del derecho a defensa']","['Tribunal constató ausencia de motivación suficiente', 'Se vulneró la estructura mínima del debido proceso']"
+b,Vicios en el procedimiento arbitral,70 menciones,5,57,"['Error en notificaciones', 'Pruebas no valoradas', 'Exceso de atribuciones por parte del árbitro']","['Se detectó error manifiesto en el procedimiento', 'El tribunal no dio oportunidad razonable para defensa']"
+c,Infracción a normas constitucionales o legales,34 menciones,3,28,"['Violación de norma imperativa', 'Inaplicación de principios constitucionales']","['Se configuró vulneración al principio de legalidad', 'El laudo afectó norma de orden público constitucional']"
+d,Contravención del orden público,19 menciones,1,17,"['Afectación al orden público económico', 'Infracción a principios fundamentales del derecho']",['No se acreditó que el laudo infringiera principios esenciales del orden público']
+f,Causal marginal invocada (ej. cosa juzgada),2 menciones,0,2,['Existencia de decisión previa sobre el mismo conflicto'],['No se probó identidad de materia ni de partes']
+g,Conciliación previa u otra causal residual,1 mención,0,1,['Falta de cumplimiento del procedimiento previo'],['El defecto procesal no era relevante para anular el laudo']
