@@ -9,8 +9,11 @@ st.title("Prototipo de Consulta de Causales - Recursos de Anulación")
 
 # Descripción breve
 st.markdown("""
+st.markdown("""
 Esta herramienta permite consultar de forma rápida los patrones identificados en los recursos de anulación de laudos arbitrales en Lima (2023).
+Las causales que se muestran corresponden al **artículo 63 del Decreto Legislativo N° 1071**, que regula las causales específicas por las que se puede solicitar la nulidad de un laudo arbitral en Perú.
 Selecciona una causal para ver su frecuencia, probabilidad de acogida o rechazo, argumentos comunes y fundamentos del tribunal.
+""")
 """)
 
 # Selector de causal
